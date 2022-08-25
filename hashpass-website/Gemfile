@@ -7,3 +7,4 @@ gem 'rack-contrib'
 gem 'kramdown'
 gem 'puma'
 gem 'rake'
+gem "webrick"
