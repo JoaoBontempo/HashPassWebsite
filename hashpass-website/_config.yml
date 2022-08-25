@@ -1,2 +1,4 @@
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile']
-baseurl: hashpass-privacy-policy
+title: HashPass 
+email: joao.vitor.bontempo19@gamil.com
+baseurl: ""
+theme: minima
